@@ -24,7 +24,8 @@
     2. Python3
     3. Node (v20)
     4. npm (v10)
-    5. Angular CLI
+    5. Angular CLI (latest)
+    6. GoLang (latest)
 - Script to install all above softwares is added in `./language-essentials`.
 - Command to run the script
     > ./language-essentials/script.sh
